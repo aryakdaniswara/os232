@@ -1,3 +1,4 @@
+# REV02: Fri 4 Sep 2023 21:37
 # REV02: Fri 1 Sep 2023 19:32
 # REV01: Fri 1 Sep 2023 13:45
 # START: Thu 31 Aug 2023 18:00
@@ -19,6 +20,9 @@ ZCZC W00 15 L15 Assignment #05
 ZCZC W00 50 L70 Studying for other courses.
 ZCZC W00 30 L15 Assignment #05
 ZCZC W00 70 L05 Quiz related including studying
+ZCZC W00 30 L15 Assignment #05
+ZCZC W00 30 L05 Quiz related including studying
+ZCZC W00 5 L41 TXT/mylog.txt related.
 
 
 
