@@ -27,6 +27,10 @@ ZCZC W01 40 L21 Trying something
 ZCZC W01 50 L12 Assignment #02
 ZCZC W01 15 L13 Assignment #03
 ZCZC W01 5 L14 Assignment #04
+ZCZC W02 70 L05 Quiz related including studying
+ZCZC W02 40 L11 Assignment #01
+ZCZC W02 30 L12 Assignment #02
+
 
 
 
