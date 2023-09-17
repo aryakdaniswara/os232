@@ -38,7 +38,8 @@ ZCZC W02 15 L40 TXT/ related in general.
 ZCZC W02 30 L21 Trying something
 ZCZC W02 30 L14 Assignment #04
 ZCZC W02 20 L16 Assignment #06
-
+ZCZC W02 35 L21 Trying something
+ZCZC W02 50 L24 Scripting in general.
 
 
 
