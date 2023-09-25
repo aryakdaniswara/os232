@@ -12,4 +12,9 @@ A video explaining on the basic of regex and how to use them. It explains an ove
 A website that provides explanation about trojan horse and type of trojan horse. It's a really great starting point to be familiarized with the many types of trojan horse that exist in this world, it provides lots of example with a simple explanation
 5. [Trojan Horse in Action!](https://www.youtube.com/watch?v=LSgk7ctw1HY) <br>
 A video that actually runs an old trojan horse on a computer. This video really demonstrate what a trojan horse can do (even a trojan horse from years ago!). Even though the trojan horse that is intalled is more annoying than dangerous, it give a perpective on what trojan horse can do
-
+6. [Virtual Disk Explained](https://www.youtube.com/watch?v=tTBt7_aACPI) <br>
+A video that explains virtual disk, how it's work, and what is it use for. This video served as an intro to virtual disk and explained a lot about the different format in virtual disk.
+7. [File System Basic Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0) <br>
+A really great and concise video that explain the concept of file system. This video explains how a file system works and the flow of access that is needed for accessing a file. It uses graph to help get a better understanding of the file system concept.
+8. [How computer access file](https://www.youtube.com/watch?v=KN8YgJnShPM) <br>
+A video that explains how computer read files and interpret what is in that file. This video explains some simple well known format like txt and bitmap file and explain how those file works to store and intrepret data that we can later see, like a text or an image.
