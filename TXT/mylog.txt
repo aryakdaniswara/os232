@@ -49,6 +49,11 @@ ZCZC W03 35 L21 Trying something
 ZCZC W03 30 L24 Scripting in general.
 ZCZC W03 25 L05 Quiz related including studying
 ZCZC W03 15 L21 Trying something
+ZCZC W04 20 L11 Assignment #01
+ZCZC W04 25 L12 Assignment #02
+ZCZC W04 45 L13 Assignment #03
+ZCZC W04 20 L24 Scripting in general.
+ZCZC W04 15 L40 TXT/ related in general.
 
 
 
