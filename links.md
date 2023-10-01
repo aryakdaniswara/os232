@@ -18,3 +18,7 @@ A video that explains virtual disk, how it's work, and what is it use for. This 
 A really great and concise video that explain the concept of file system. This video explains how a file system works and the flow of access that is needed for accessing a file. It uses graph to help get a better understanding of the file system concept.
 8. [How computer access file](https://www.youtube.com/watch?v=KN8YgJnShPM) <br>
 A video that explains how computer read files and interpret what is in that file. This video explains some simple well known format like txt and bitmap file and explain how those file works to store and intrepret data that we can later see, like a text or an image.
+9. [A Simple Makefile Guide}(https://www.youtube.com/watch?v=yWLkyN_Satk&ab_channel=NeuralNine) <br>
+A video that explains why we use Makefile and how to use them properly. After this week assigment that talks about Makefile again i feel like i need a refreshment about Makefile, this video help me do that.
+10. [Byte Ordering or 'Endianess"](https://www.youtube.com/watch?v=CounrFEsOeA&ab_channel=ComputerScience) <br>
+This video explain about byte ordering, it explain the kinds, big endian and small endian, it also explain how byte ordering works in computer. This video explain endianess with a lot of examples, it serve as an intro to learning byte ordering and give an overview on how it works on computer and network.
