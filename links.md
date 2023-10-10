@@ -22,3 +22,9 @@ A video that explains how computer read files and interpret what is in that file
 A video that explains why we use Makefile and how to use them properly. After this week assigment that talks about Makefile again i feel like i need a refreshment about Makefile, this video help me do that.
 10. [Byte Ordering or 'Endianess"](https://www.youtube.com/watch?v=CounrFEsOeA&ab_channel=ComputerScience) <br>
 This video explain about byte ordering, it explain the kinds, big endian and small endian, it also explain how byte ordering works in computer. This video explain endianess with a lot of examples, it serve as an intro to learning byte ordering and give an overview on how it works on computer and network.
+11. [Virtual Memory Explained](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority) <br>
+This video explains about virtual memory, how it works, and the MMU. This video serve as an intro to virtual memory and cover a lot of topics that is talked about in virtual memory and MMU. It also explained about the mistake that can happened like page vault.
+12. [Problems that exist when you dont use virtual memory](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer) <br>
+This video also explain about virtual memory, but it explain in a way that approach about problem that exist for you to use virtual memory. This video is great to understand why we want to use virtual memory after all and explain it in a problem segment.
+13. [Difference between virtual memory and cache](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/) <br>
+This website explain about the difference betweeb virtual and cache using easy to table and bullet point. The explanation are easy to understand and can be used to provide guidance for misconception regarding cache and virtual memory.
