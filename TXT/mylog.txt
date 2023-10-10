@@ -54,9 +54,13 @@ ZCZC W04 25 L12 Assignment #02
 ZCZC W04 45 L13 Assignment #03
 ZCZC W04 20 L24 Scripting in general.
 ZCZC W04 15 L40 TXT/ related in general.
-
-
-
-
+ZCZC W05 85 L05 Quiz related including studying
+ZCZC W05 25 L11 Assignment #01
+ZCZC W05 15 L12 Assignment #02
+ZCZC W05 10 L13 Assignment #03
+ZCZC W05 70 L14 Assignment #04
+ZCZC W05 80 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05 30 L21 Trying something
+ZCZC W05 40 L15 Assignment #05
 
 
