@@ -68,6 +68,12 @@ ZCZC W06 15 L12 Assignment #02
 ZCZC W06 20 L13 Assignment #03
 ZCZC W06 25 L21 Trying something
 ZCZC W06 50 L14 Assignment #04
+ZCZC W07 70 L05 Quiz related including studying
+ZCZC W07 25 L11 Assignment #01
+ZCZC W07 25 L21 Trying something
+ZCZC W07 15 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 50 L14 Assignment #04
 
 
 
