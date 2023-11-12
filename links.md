@@ -34,3 +34,9 @@ This video explains about explains about the fork function in C. The video expla
 This video is an intoduction to multithreading. This video talks about the multithread and the reason we should use it. This video is really great to be an introduction for multithreading as this video explain the concenpt and breaking it down to a more digestable material.
 16. [The difference between Multiprocessing and Multithreading](https://www.youtube.com/watch?v=oIN488Ldg9k) <br>
 This video breakdowns about the difference between Multiprocessing and Multithreading. This video explains what Multiprocessing and Multithreading is used for and break it down into a simpler concept. This video explain using examples that makes it easier to understand the concept.
+17. [Process Synchronization Explained](https://www.youtube.com/watch?v=ph2awKa8r5Y) <br>
+This video explain about process synchronization, cooperating process, and race condition. This video explain it quite thoroughly.It use a power point type like material that help to understand the main point of the material that is discussed. This video is great for an early understanding because it talks about it from the start, like the definition.
+18. [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY) <br>
+This is a video that explained about deadlock and why it happens. This video also talks about few conditions that make deadlocks happened. This video uses example that makes it easier to understand, but this video doesnt really have a great audio, so it can a bump.
+19. [Handling Deadlock](https://www.youtube.com/watch?v=qkMDpzZuTkA) <br>
+This video explain about the ways we can do to hanlde a deadlock. This video mainly talks about deadlock ignorance and how it is used. This video is great as an introduction to deadlock handling techniques, but this video also doesnt have a great audio.
