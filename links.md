@@ -40,3 +40,9 @@ This video explain about process synchronization, cooperating process, and race 
 This is a video that explained about deadlock and why it happens. This video also talks about few conditions that make deadlocks happened. This video uses example that makes it easier to understand, but this video doesnt really have a great audio, so it can a bump.
 19. [Handling Deadlock](https://www.youtube.com/watch?v=qkMDpzZuTkA) <br>
 This video explain about the ways we can do to hanlde a deadlock. This video mainly talks about deadlock ignorance and how it is used. This video is great as an introduction to deadlock handling techniques, but this video also doesnt have a great audio.
+20. [LFS Situationship](https://www.youtube.com/watch?v=BaON_Hn_0_A) <br>
+A fun and exciting video, that really casually introduce you to lFS. This video is great for motivation and as a exciting way to get ready for LFS. This video provide you with an upbeat music that gets you going to strat your LFS journey.
+21. [Kermotex How-To](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) <br>
+This is a playlist of Kermotex video that talks about Linux From Scratch. This video will help guide you to do the LFS. This video is quite okay, maybe a more fun narrating would be great because Kermotex really do sound so tired but this video has a really in-depth explanation that will help you.
+22. [LFS Overview](https://www.youtube.com/watch?v=1eOdaXS-wVE) <br>
+This video talks about an overview about LFS, like what is it and what will you do. This is a quite nice video that help you to prepare and know on what will you be doing. This video serves as an introduction to how to do LFS
