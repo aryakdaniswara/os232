@@ -46,3 +46,7 @@ A fun and exciting video, that really casually introduce you to lFS. This video 
 This is a playlist of Kermotex video that talks about Linux From Scratch. This video will help guide you to do the LFS. This video is quite okay, maybe a more fun narrating would be great because Kermotex really do sound so tired but this video has a really in-depth explanation that will help you.
 22. [LFS Overview](https://www.youtube.com/watch?v=1eOdaXS-wVE) <br>
 This video talks about an overview about LFS, like what is it and what will you do. This is a quite nice video that help you to prepare and know on what will you be doing. This video serves as an introduction to how to do LFS
+23. [A Chapter 6 Guide](https://www.linuxfromscratch.org/lfs/view/development/chapter06/chapter06.html) <br>
+This website explain about the Chapter 6 of the LFS. It explain about Cross Compiling Temporary Tools and how to do it. This video is the guide to the LFS, it explain pretty good, but doesnt really have it all.
+24. [Kernotex Chapter 6](https://www.youtube.com/watch?v=D_N1kQPsQEk&ab_channel=Kernotex) <br>
+This video is about the Chapter 6 of LFS. This video is a really great addition to the LFS Chapter 6. It really explain a lot about why you do it, and how to do it.
