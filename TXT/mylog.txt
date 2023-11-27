@@ -80,5 +80,10 @@ ZCZC W08 25 L11 Assignment #01
 ZCZC W08 15 L12 Assignment #02
 ZCZC W08 260 L13 Assignment #03
 ZCZC W08 50 L14 Assignment #04
+ZCZC W09 80 L05 Quiz related including studying
+ZCZC W09 20 L11 Assignment #01
+ZCZC W09 10 L12 Assignment #02
+ZCZC W09 240 L13 Assignment #03
+ZCZC W09 50 L14 Assignment #04
 
 
