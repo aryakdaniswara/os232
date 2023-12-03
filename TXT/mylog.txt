@@ -89,7 +89,7 @@ ZCZC W10 70 L05 Quiz related including studying
 ZCZC W10 240 L21 Trying something
 ZCZC W10 20 L11 Assignment #01
 ZCZC W10 10 L12 Assignment #02
-ZCZC W10 450 L13 Assignment #03
+ZCZC W10 700 L13 Assignment #03
 ZCZC W10 50 L14 Assignment #04
 
 
