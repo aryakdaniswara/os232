@@ -50,7 +50,7 @@ This video talks about an overview about LFS, like what is it and what will you 
 This website explain about the Chapter 6 of the LFS. It explain about Cross Compiling Temporary Tools and how to do it. This video is the guide to the LFS, it explain pretty good, but doesnt really have it all.
 24. [Kernotex Chapter 6](https://www.youtube.com/watch?v=D_N1kQPsQEk&ab_channel=Kernotex) <br>
 This video is about the Chapter 6 of LFS. This video is a really great addition to the LFS Chapter 6. It really explain a lot about why you do it, and how to do it.
-25. [Kernotex Chapter 8] (https://www.youtube.com/watch?v=xiolHZb2kZo&ab_channel=Kernotex) <br>
+25. [Kernotex Chapter 8](https://www.youtube.com/watch?v=xiolHZb2kZo&ab_channel=Kernotex) <br>
 This is the longest chapter 8 video by Kernotex, it shows.. a lot, it will help you but goodluck and always have back up. It reaaly is providing a step by step guide, but 5 hours are something.
 26. [(Hopefully) Peace with LFS](https://www.youtube.com/watch?v=BaON_Hn_0_A&t=100s&ab_channel=Virbox) <br>
 A video that explains what actually doing LFS feels like, it really is something. This video serve as a reminder to actually see it through. This video just summarized your whole experience,
